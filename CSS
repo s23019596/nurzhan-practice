@@ -1,0 +1,44 @@
+body{
+	margin: 0px;
+}
+.content{
+	font-family: Arial;
+}
+.navbar{
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+	background-color: brown;
+}
+.logo{
+}
+.logo a{
+	color: white;
+	text-decoration: none;
+	font-size: 24px;
+}
+.menu{
+	display: flex;
+	align-items: center;
+}
+.menu a {
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	margin-left: 20px;
+}
+.main{
+
+}
+.login{
+	width: 20%;
+	min-height: 500px
+}
+.feed{
+	width: 50%;
+	min-height: 500px
+}
+.table{
+	width: 30%;
+	min-height: 500px
+}
